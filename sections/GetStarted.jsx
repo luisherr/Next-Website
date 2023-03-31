@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 
 import styles from '../styles'
 import { fadeIn , staggerContainer, planetVariants } from '../utils/motion'
-import { StartSteps ,TypingText, TitleText, ExploreCard } from "../components";
+import { StartSteps ,TypingText, TitleText } from "../components";
 import { startingFeatures } from "../constants";
 
 
