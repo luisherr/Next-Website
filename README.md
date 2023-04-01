@@ -1,4 +1,4 @@
-# | Metaversus construido en Next.js
+# | Metaverse construido en Next.js
 
 Construido con Next
 
